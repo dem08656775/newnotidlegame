@@ -1,0 +1,22 @@
+#coinamount{
+  text-align: center;
+  font-size: 48px
+}
+
+#tweet{
+  margin: 20px 0px;
+}
+
+#tweet a{
+  color: white;
+  font-size: .8rem;
+  padding: .6rem .8rem;
+  background: #1DA1F2;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+
+[v-cloak] {
+  display: none;
+}
